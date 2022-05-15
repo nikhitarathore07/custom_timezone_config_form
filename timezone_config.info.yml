@@ -1,0 +1,6 @@
+name: Custom Config Timezone
+description: Timezone module.
+type: module
+package: Custom
+core_version_requirement: ^8.8 || ^9
+configure: timezone_config.ConfigCustomTimezone
